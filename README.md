@@ -12,7 +12,7 @@ Estou Cursando Sistemas de Informaçao e em busca de Oportunidades na area de De
 
 - 🔭 Atualmente Estou apirmorando minha Habilidades na construçao de Rest APIs
 - 🌱 estou Tambem estudando progamaçao funcional
-- 🤝 QUero muito aprender progamaçao em Nuvem  
+- ☁ Quero muito aprender progamaçao em Nuvem  
 
 
 
