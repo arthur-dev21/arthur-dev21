@@ -10,7 +10,7 @@
 
 Estou Cursando Sistemas de Informaçao e em busca de Oportunidades na area de Desenvolvimento backend com Java e Spring Boot
 
-- 🔭 Atualmente Estou apirmorando minha Habilidades na construçao de Rest APIs
+- 🔭 Atualmente Estou aprimorando minha Habilidades na construçao de Rest APIs
 - 🌱 estou Tambem estudando progamaçao funcional
 - ☁ Quero muito aprender progamaçao em Nuvem  
 
