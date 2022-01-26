@@ -15,8 +15,7 @@ Trabalho como Analista de QA na NTT DATA
 ,
 
 - 🔭 Analista de Testes QA 
-- 🌱 Dev Java Back END
-- ☁ Quero muito aprender progamaçao em Nuvem  
+
 
 
 
