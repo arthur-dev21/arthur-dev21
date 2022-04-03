@@ -8,20 +8,16 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurkenned/)](https://www.linkedin.com/in/arthurkenned/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/arthur_knd_/)
 
-Trabalho como Analista de QA na NTT DATA 
-32,
-0
-30
-,
+Sou Analista de Qualidade de Software ,
 
-- 🔭 Analista de Testes QA 
+- 🔭 
 
 
 
 
 
 ### sobre mim
-Eu sou Desenvolvedor Java apaixonado por progamaçao , Desencolvendo em Java , Spring Boot
+Eu sou
 
 
 
